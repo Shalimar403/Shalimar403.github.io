@@ -1,0 +1,19 @@
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 14px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  font-family: "JetBrains Mono", monospace;
+
+    h1 /* Heading 1 Style */
+    {
+        font-size: 60px;
+        text-align: left;
+    }
+    p,li 
+    {
+        font-size: 16px;
+        line-height: 2;
+        letter-spacing: 1px;
+    }
+
+}
