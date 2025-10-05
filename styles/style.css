@@ -1,17 +1,29 @@
-html {
-  /* px means "pixels". The base font size is now 10 pixels high */
-  font-size: 14px;
-  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
-  font-family: "JetBrains Mono", monospace;
+html 
+{
+    /* Main background and text color*/
+    background-color: #181a21;
+    color: white;
+    padding: 20px 20px 20px 20px;
+
+    /* Font style */
+    font-size: 14px;
+    font-family: "JetBrains Mono", monospace;
 
     h1 /* Heading 1 Style */
     {
-        font-size: 60px;
+        font-size: 30px;
         text-align: left;
+        
     }
-    p,li 
+
+    h2 /* Heading 2 Style */
     {
-        font-size: 16px;
+        font-size: 22.5px;
+    }
+
+    p,li /* paragraph and line style */
+    {
+        font-size: 15px;
         line-height: 2;
         letter-spacing: 1px;
     }
