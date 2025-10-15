@@ -13,6 +13,8 @@ html
     {
         font-size: 30px;
         text-align: left;
+        background-color: #3d04aa;
+        display: inline;
         
     }
 
@@ -26,6 +28,11 @@ html
         font-size: 15px;
         line-height: 2;
         letter-spacing: 1px;
+    }
+
+    .about-me
+    {
+        background-color: #1c1e25;
     }
 
 }
