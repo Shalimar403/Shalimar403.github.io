@@ -9,7 +9,7 @@ html
     font-size: 14px;
     font-family: "JetBrains Mono", monospace;
 
-    h1 /* Heading 1 Style */
+    h1  /*Heading 1 Style*/ 
     {
         font-size: 30px;
         text-align: left;
@@ -17,6 +17,18 @@ html
         display: inline;
         
     }
+
+    .github-icon
+    {
+        float: right;
+    
+    }
+
+    /* About me style */
+    .about-me
+    {
+        background-color: #1c1e25;
+    }   
 
     h2 /* Heading 2 Style */
     {
@@ -29,11 +41,4 @@ html
         line-height: 2;
         letter-spacing: 1px;
     }
-
-    /* About me style */
-    .about-me
-    {
-        background-color: #1c1e25;
-    }
-
 }
