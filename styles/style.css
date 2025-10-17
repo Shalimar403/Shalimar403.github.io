@@ -13,15 +13,21 @@ html
     {
         font-size: 30px;
         text-align: left;
-        background-color: #3d04aa;
+        background-color: #1c1e25;
         display: inline;
         
+    }
+
+    .linkedin-icon
+    {
+        float: right;
+        padding: 10px;
     }
 
     .github-icon
     {
         float: right;
-    
+        padding: 10px;
     }
 
     /* About me style */
