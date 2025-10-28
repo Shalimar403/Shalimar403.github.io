@@ -13,7 +13,7 @@ html
     {
         font-size: 30px;
         text-align: left;
-        background-color: #1c1e25;
+        background-color: #23252e;
         display: inline;
         
     }
@@ -33,7 +33,7 @@ html
     /* About me style */
     .about-me
     {
-        background-color: #1c1e25;
+        background-color: #23252e;
     }   
 
     h2 /* Heading 2 Style */
